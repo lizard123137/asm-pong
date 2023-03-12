@@ -1,0 +1,4 @@
+*.o
+*.obj
+
+pong_asm
