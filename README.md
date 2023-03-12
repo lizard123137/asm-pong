@@ -1,3 +1,4 @@
-# ASM PONG
+# ASM PONG 
+## [WORK IN PROGRESS]
 
-This is a linux project that i created to learn *x86 assembly*
+This is a linux project that i am creating to learn *x86 assembly*
